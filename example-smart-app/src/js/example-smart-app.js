@@ -16,8 +16,8 @@
                     query: {
                       code: {
                         $or: ['http://loinc.org|8302-2',//body height 
-                              'http://loinc.org|8462-4',//diastolic blood pressure
-                              'http://loinc.org|8480-6',//systolic blood pressure
+                              'http://loinc.org|85354-9',//diastolic blood pressure
+                              'http://loinc.org|85354-9',//systolic blood pressure
                               'http://loinc.org|2085-9',//HDL
                               'http://loinc.org|2089-1',//LDL
                               'http://loinc.org|85354-9']//BP systolic diastolic
